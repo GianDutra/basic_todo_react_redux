@@ -1,2 +1,2 @@
-# React + Redux + Zustand
+# Basic Todo React + Redux
 
